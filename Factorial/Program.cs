@@ -24,7 +24,7 @@ namespace Factorial
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(ComputeFactorial(4));
+            Console.WriteLine("factorial is " + ComputeFactorial(4));
         }
         /// <summary>
         /// Factorial calculator
